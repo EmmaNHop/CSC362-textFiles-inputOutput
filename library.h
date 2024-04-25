@@ -1,0 +1,6 @@
+#ifndef PROGRAMMING1_LIBRARY_H
+#define PROGRAMMING1_LIBRARY_H
+
+void hello(void);
+
+#endif //PROGRAMMING1_LIBRARY_H

@@ -1,0 +1,13 @@
+# ninja log v5
+0	281	6844828646221532	CMakeFiles/programming1.dir/library.c.obj	6d86652fdc01c1b8
+288	510	6844828648493747	libprogramming1.a	eb8802f9582f548c
+4	397	6846939716289690	CMakeFiles/programming1.dir/library.c.obj	6d86652fdc01c1b8
+405	613	6846939718481255	libprogramming1.a	eb8802f9582f548c
+3	105	6846940519430875	CMakeFiles/programming1.dir/library.c.obj	6d86652fdc01c1b8
+107	194	6846940520322377	libprogramming1.a	eb8802f9582f548c
+4	117	6846940961641273	CMakeFiles/programming1.dir/library.c.obj	6d86652fdc01c1b8
+118	214	6846940962590785	libprogramming1.a	eb8802f9582f548c
+4	116	6846954914574611	CMakeFiles/programming1.dir/library.c.obj	6d86652fdc01c1b8
+135	248	6846954915891366	libprogramming1.a	eb8802f9582f548c
+5	139	6846989681083250	CMakeFiles/programming1.dir/library.c.obj	6d86652fdc01c1b8
+139	245	6846989682157250	libprogramming1.a	eb8802f9582f548c
